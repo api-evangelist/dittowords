@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ditto (dittowords.com) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://dittowords.com/
+Ditto is a content system for product copy, providing structured context behind every word to ensure accuracy, consistency, and on‑brand messaging across all channels. It leverages AI to generate, integrate, and ship product copy, supporting multilingual localization and brand guidelines by default.
+
+**Areas:** Company · AI · Content · Localization · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.dittowords.com/)
+- [Documentation](https://developer.dittowords.com/)
+- [Getting started](https://developer.dittowords.com/ditto-specs-cli-reference/setup)
+- [API reference](https://developer.dittowords.com/llms.txt)
+- [Pricing](https://www.dittowords.com/pricing)
+- [Support](https://help.dittowords.com/en/)
+- [Changelog](https://www.dittowords.com/whats-new)
+- [Blog](https://www.dittowords.com/blog)
+- [GitHub](https://github.com/dittowords)
+
+**APIs profiled:** 11
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/dittowords/](https://apis.io/providers/dittowords/).
